@@ -104,6 +104,12 @@ for (i = 1800; i < 1800 + sprite_get_number(spr_card_extra8); ++i) {
 	global.ispr_o[i] = 1
 }
 
+for (i = 1900; i < 1900 + sprite_get_number(spr_card_extra9); ++i) {
+	global.ispr_s[i] = spr_card_extra9
+	global.ispr_i[i] = i - 1900
+	global.ispr_o[i] = 1
+}
+
 
 
 

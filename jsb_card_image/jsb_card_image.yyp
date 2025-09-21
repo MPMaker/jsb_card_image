@@ -50,6 +50,7 @@
     {"id":{"name":"spr_card_extra6","path":"sprites/spr_card_extra6/spr_card_extra6.yy",},},
     {"id":{"name":"spr_card_extra7","path":"sprites/spr_card_extra7/spr_card_extra7.yy",},},
     {"id":{"name":"spr_card_extra8","path":"sprites/spr_card_extra8/spr_card_extra8.yy",},},
+    {"id":{"name":"spr_card_extra9","path":"sprites/spr_card_extra9/spr_card_extra9.yy",},},
     {"id":{"name":"spr_master","path":"sprites/spr_master/spr_master.yy",},},
   ],
   "resourceType":"GMProject",
